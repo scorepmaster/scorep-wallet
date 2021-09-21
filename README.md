@@ -1,2 +1,2 @@
 # scorep-wallet
-Wallet for blockchain
+scorep wallet for blockchain
